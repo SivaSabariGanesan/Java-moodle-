@@ -10,7 +10,6 @@ The repository includes solutions for a wide range of Java concepts, including b
 - Object-Oriented Programming (OOP)
 - Exception Handling
 - File Handling
-- Data Structures and Collections
 - Advanced Java Topics
 
 All solutions are structured and documented for easy understanding and execution.
